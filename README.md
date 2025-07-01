@@ -1,4 +1,4 @@
-# AutoSeg_edge
+# RealtimeSeg
 The differentiable hardware-software co-design neural architecture search method for Semantic Segmentation on the mobile platform 
 # Acknowledgement
 1.Segmentation training and evaluation code from [FasterSeg](https://github.com/VITA-Group/FasterSeg)
